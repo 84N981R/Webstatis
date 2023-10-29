@@ -44,7 +44,7 @@
   
  .hero { 
    height: 380px; 
-   background-image: url (https://upload.wikimedia.org/wikipedia/commons/1/1c/Sugar_Glider_%28Petaurus_breviceps%29.jpg); 
+   background-image: url (); 
    background-size: cover;
    background-position: 0 -75px; 
    outline-style: solid; 
