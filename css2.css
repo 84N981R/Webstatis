@@ -3,7 +3,7 @@
    font: 16px/28px arial, sans-serif; 
    background-color: #eaeaea; 
    color: #333; 
-   background-image: url (); 
+   background-image: url(https://upload.wikimedia.org/wikipedia/commons/1/1c/Sugar_Glider_%28Petaurus_breviceps%29.jpg); 
    background-size: cover; 
    background-attachment: fixed; 
  } 
@@ -43,10 +43,12 @@
  } 
   
  .hero { 
-   height: 380px; 
-   background-image: url ();
-   padding: 15px;
- } 
+    height: 380px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/1/1c/Sugar_Glider_%28Petaurus_breviceps%29.jpg);
+    background-size: contain;
+    background-position: center;
+}
+ 
   
  .content .penulis { 
    margin-top: -15px; 
